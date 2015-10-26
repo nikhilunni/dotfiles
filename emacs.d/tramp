@@ -1,0 +1,44 @@
+;; -*- emacs-lisp -*- <15/10/25 17:37:20 /Users/nikhil/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["ssh" "cs194-in" "hive23.cs.berkeley.edu" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 3.13.0-45-generic")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-string" "cs194")
+  ("gid-integer" 22160)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("~" "/home/cc/cs194/fa15/class/cs194-in"))
+ (["ssh" "cs164-es" "cory.eecs.berkeley.edu" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "SunOS 5.10")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/xpg4/bin" "/usr/ccs/bin" "/usr/bin" "/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/opt/local/bin"))
+  ("remote-shell" "/usr/bin/bash")
+  ("~" "/home/cc/cs164/fa15/class/cs164-es")
+  ("file-exists" "test -e")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "/usr/bin/perl")
+  ("stat" nil)
+  ("id" "/usr/xpg4/bin/id")
+  ("gid-string" "cs164")
+  ("gid-integer" 20060)
+  ("readlink" nil)
+  ("git" nil)
+  ("uid-integer" 28031)
+  ("tmpdir" "/ssh:cs164-es@cory.eecs.berkeley.edu:/tmp")
+  ("touch-t" t)
+  ("touch" "/usr/bin/touch")
+  ("ls" "/usr/xpg4/bin/ls")
+  ("busybox" nil)))

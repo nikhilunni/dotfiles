@@ -1,0 +1,84 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/" . "PA4/")
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/" . "cs164/")
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/" . "Berkeley/")
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:" . "Problem-Sets/")
+ ("/" . "Applications/")
+ ("/Users/nikhil/.emacs.d/elpa/" . "slime-20100404.1/")
+ ("/Users/nikhil/.emacs.d/" . "elpa/")
+ ("/Users/nikhil/TestProjects/clojure-noob/src/" . "clojure_noob/")
+ ("/Users/nikhil/TestProjects/clojure-noob/" . "src/")
+ ("/Users/nikhil/TestProjects/" . "clojure-noob/")
+ ("/Users/nikhil/" . "test/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/PA4/"
+ "/ssh:cs164-es@cory.eecs.berkeley.edu:"
+ "/Users/nikhil/test/"
+ "/Users/nikhil/Homeroom/"
+ "/Users/nikhil/.emacs.d/elpa/slime-20100404.1/"
+ "/Users/nikhil/.emacs.d/url/"
+ "/Users/nikhil/TestProjects/clojure-noob/src/clojure_noob/"
+ "/Users/nikhil/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Graph.java~"
+ "Test.java"
+ "app.js"
+ "slime.el"
+ "slime-autoloads.el"
+ "cookies"
+ "core.clj"
+ "user.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:/home/cc/cs164/fa15/class/cs164-es/Problem-Sets/Berkeley/cs164/PA4/" (ftp . 401616.5933333333) "./" "../" "build.xml" "tests/" "ClassTable.java" "TreeConstants.java" "cool-tree.java" "good.cl" "bad.cl" "README" "ClassTable.java~" "anngen" "parser" "cgen" "ASTConstants.java" "ASTLexer.java" "ASTParser.java" "AbstractSymbol.java" "AbstractTable.java" "BoolConst.java" "CgenSupport.java" "Flags.java" "IdSymbol.java" "IdTable.java" "IntSymbol.java" "IntTable.java" "ListNode.java" "Semant.java" "StringSymbol.java" "StringTable.java" "SymbolTable.java" "SymtabExample.java" "TokenConstants.java" "TreeNode.java" "Utilities.java" "compare-semant" "cool-tree.aps" "mycoolc" "mysemant" "ref-semant" "lexer" "ASTConstants.class" "ASTLexer.class" "ASTParser.class" "CUP$ASTParser$actions.class" "AbstractSymbol.class" "AbstractTable.class" "StringTable.class" "IdTable.class" "IntTable.class" "BoolConst.class" "CgenSupport.class" "StringSymbol.class" "IntSymbol.class" "ClassTable.class" "Classes.class" "ListNode.class" "TreeNode.class" "class_c.class" "Class_.class" "Features.class" "Flags.class" "IdSymbol.class" "Semant.class" "SymbolTable.class" "method.class" "Feature.class" "Formals.class" "Expression.class" "SymtabExample.class" "TokenConstants.class" "TreeConstants.class" "Utilities.class" "Program.class" "Formal.class" "Expressions.class" "Case.class" "Cases.class" "programc.class" "attr.class" "formalc.class" "branch.class" "assign.class" "static_dispatch.class" "dispatch.class" "cond.class" "loop.class" "typcase.class" "block.class" "let.class" "plus.class" "sub.class" "mul.class" "divide.class" "neg.class" "lt.class" "eq.class" "leq.class" "comp.class" "int_const.class" "bool_const.class" "string_const.class" "new_.class" "isvoid.class" "no_expr.class" "object.class" "cool-tree.class" "semant" "Graph.java~")
+
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/PA4/" (ftp . 401616.59027777775) "./" "../" "build.xml" "tests/" "ClassTable.java" "TreeConstants.java" "cool-tree.java" "good.cl" "bad.cl" "README" "ClassTable.java~" "anngen" "parser" "cgen" "ASTConstants.java" "ASTLexer.java" "ASTParser.java" "AbstractSymbol.java" "AbstractTable.java" "BoolConst.java" "CgenSupport.java" "Flags.java" "IdSymbol.java" "IdTable.java" "IntSymbol.java" "IntTable.java" "ListNode.java" "Semant.java" "StringSymbol.java" "StringTable.java" "SymbolTable.java" "SymtabExample.java" "TokenConstants.java" "TreeNode.java" "Utilities.java" "compare-semant" "cool-tree.aps" "mycoolc" "mysemant" "ref-semant" "lexer" "ASTConstants.class" "ASTLexer.class" "ASTParser.class" "CUP$ASTParser$actions.class" "AbstractSymbol.class" "AbstractTable.class" "StringTable.class" "IdTable.class" "IntTable.class" "BoolConst.class" "CgenSupport.class" "StringSymbol.class" "IntSymbol.class" "ClassTable.class" "Classes.class" "ListNode.class" "TreeNode.class" "class_c.class" "Class_.class" "Features.class" "Flags.class" "IdSymbol.class" "Semant.class" "SymbolTable.class" "method.class" "Feature.class" "Formals.class" "Expression.class" "SymtabExample.class" "TokenConstants.class" "TreeConstants.class" "Utilities.class" "Program.class" "Formal.class" "Expressions.class" "Case.class" "Cases.class" "programc.class" "attr.class" "formalc.class" "branch.class" "assign.class" "static_dispatch.class" "dispatch.class" "cond.class" "loop.class" "typcase.class" "block.class" "let.class" "plus.class" "sub.class" "mul.class" "divide.class" "neg.class" "lt.class" "eq.class" "leq.class" "comp.class" "int_const.class" "bool_const.class" "string_const.class" "new_.class" "isvoid.class" "no_expr.class" "object.class" "cool-tree.class" "semant" "Graph.java~")
+
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/" (ftp . 401616.58972222224) "./" "../" "WA1/" "PA1/" "PA2/" "cs164.tex" "WA2/" "WA3/" "PA3/" "WA4/" "PA4/")
+
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/" (ftp . 401616.5891666667) "./" "../" "cs164/" "cs194/" "math113/")
+
+ ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/" (ftp . 401616.5886111111) "./" "../" ".git/" ".gitignore" "Berkeley/" "UIUC/")
+
+ ("/Users/" (21912 18326 0 0) "Shared/" "nikhil/" "macports/" "Guest/" "Deleted Users/" ".localized" "../" "./")
+
+ ("/Users/nikhil/" (22061 29969 0 0) "xts-experiments/" "workspace/" "VirtualBox VMs/" "ulogme/" "UIUC/" "TumblrBrowser/" "texput.log" "test/" "resume.pdf" "resume.log" "resume.aux" "Resume/" "PropertyFinder/" "Projects/" "Problem Sets/" "Posh/" "plot.py~" "plot.py" "Pictures/" "OpenCV/" "ndbfront/" "ndb/" "mygithubpage/" "Music/" "Movies/" "mobile/" "Library/" "kernel/" "ivim/" "homeroomIonic/" "homeroom2.0/" "homeroom-mobile.playground/" "Homeroom/" "HaskellBoyAdvance/" "Haskell/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "cookie" "Brainfuck/" "BPM-Finder/" "Assignment 3.docx" "Assignment 2.docx" "Applications/" "Alfred/" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-Shankar Unni’s MacBook Pro-5.0.5" ".zcompdump-Shankar Unni’s MacBook Pro-5.0.2" ".zcompcache/" ".xtc" ".Xcode/" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".vimrc.backup" ".vimrc" ".viminfo" ".vim.backup/" ".vim/" ".Trash/" ".swp" ".subversion/" ".streamline/" ".ssh/" ".sh_history" ".Scilab/" ".saves/" ".rvm/" ".rnd" ".recentf" ".profile.macports-saved_2013-10-06_at_17:05:08" ".profile" ".plugman/" ".pip/" ".pax/" ".oracle_jre_usage/" ".oh-my-zsh/" ".octave_hist" ".nvm/" ".npm/" ".node-gyp/" ".netrc" ".mongorc.js" ".mkshrc" ".mavenrc" ".matplotlib/" ".matlab/" ".macports/" ".m2/" ".local/" ".lesshst" ".lein/" ".jssc/" ".jenkins/" ".ivy2/" ".ido.last~" ".ido.last" ".idlerc/" ".hudson/" ".hgrc" ".heroku/" ".groovy/" ".gradle/" ".gitconfig" ".ghc/" ".gem/" ".gdb_history" ".fontconfig/" ".flume/" ".eslintrc" ".emacs.d/" ".eclipse/" ".DS_Store" ".dropbox/" ".distlib/" ".dbshell" ".cups/" ".cordova/" ".config/" ".cmake/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".cabal/" ".bashrc" ".bash_profile" ".bash_history" ".azure/" ".avnrc" ".appletviewer" ".anyconnect" ".ant/" ".android/" "../" "./")
+
+ ("/Users/nikhil/test/" (22061 29977 0 0) "whatever/" "visualboyadvance/" "vim-colors-solarized/" "UIUC_CS/" "transactions.json" "test2.py~" "test2.py" "test.s" "test.py~" "test.py" "Test.java~" "Test.java" "test.c~" "test.cpp~" "test.cpp" "Test.class" "test.c" "Test$MaxHeap.class" "Test$Graph.class" "Sudoku.java~" "Sudoku.java" "sudoko.cpp~" "sudoko.cpp" "stupidfile" "story.txt" "Solution.java" "Solution.class" "ShopAPI/" "SGD.py" "sgd/" "Semantic-UI/" "run" "ramusa2_noisy_predictions.txt" "Queue.java~" "Queue.java" "Practice.java~" "Practice.java" "Practice.class" "practice.c" "Practice$Tree.class" "Practice$Node.class" "Practice$LL.class" "Practice$Graph.class" "Practice$Double.class" "pickle.out" "out" "omegagb/" "NearestNeighbor.py~" "NearestNeighbor.py" "mooneye-gb/" "Makefile~" "Makefile" "jquery.min.js" "input3" "input2" "input" "Homeroom/" "gbajs/" "Fergulator/" "data~" "data" "CTCI/" "cs194/" "CompanySalary/" "chip-8-emulator/" "CC.html~" "CC.html" "amp.html~" "amp.html" "a.out" ".DS_Store" "../" "./")
+
+ ("/Users/nikhil/.emacs.d/" (21379 65032 0 0) "user.el" "url/" "themes/" "tar.sh" "README.markdown" "places" "init.el" "elpa/" "COPYING" "cider-history" "changelog.md" "backups/" "auto-save-list/" "after-init.el" "ac-comphist.dat" ".smex-items" "../" "./")
+
+ ("/Users/nikhil/Homeroom/" (21379 64813 0 0) "views/" "routes/" "public/" "package.json" "node_modules/" "models/" "config/" "app.js" ".git/" ".DS_Store" "#app.js#" "../" "./")
+
+ ("/Applications/" (21367 61644 0 0) "Xerox/" "Xcode.app/" "VMware Fusion.app/" "VirtualBox.app/" "Utilities/" "Time Machine.app/" "TextEdit.app/" "TeX/" "System Preferences.app/" "Stickies.app/" "StatPlus.app/" "Spotify.app/" "Skype.app/" "SecurID.app/" "scilab-5.4.0.app/" "Safari.app/" "Remote Desktop Connection.app/" "Reminders.app/" "QuickTime Player.app/" "Preview.app/" "Photo Booth.app/" "Octave.app/" "Notes.app/" "Network Connect.app/" "MusicBrainz Picard.app/" "Mission Control.app/" "Microsoft Silverlight/" "Microsoft Office 2011/" "Microsoft Messenger.app/" "Microsoft Communicator.app/" "Messages.app/" "MATLAB_R2012b.app/" "Maps.app/" "Mail.app/" "MacPorts/" "Logger Pro 3/" "Launchpad.app/" "JellyfiSSH.app/" "iWeb.app/" "iTunes.app/" "iTerm.app/" "iPhoto.app/" "iMovie.app/" "Image Capture.app/" "iDVD.app/" "iBooks.app/" "Graphviz.app/" "Google Chrome.app/" "Gnuplot.app/" "Garmin MapManager.app/" "Garmin MapInstall.app/" "Garmin Lifetime Map Updater.app/" "Garmin BaseCamp.app/" "GarageBand.app/" "Game Center.app/" "Font Book.app/" "Flux.app/" "Flip4Mac/" "Firefox.app/" "ffmpegX.app/" "FaceTime.app/" "Ez7z.app/" "Emacs.app/" "eclipse/" "DVD Player.app/" "Dictionary.app/" "Dashboard.app/" "CoRD.app/" "Contacts.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Automator.app/" "Audacity/" "Application Loader.app/" "App Store.app/" "Android File Transfer.app/" "Alfred 2.app/" "Adium.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/nikhil/.emacs.d/elpa/slime-20100404.1/" (21283 16597 0 0) "slime.elc" "slime.el" "slime-pkg.elc" "slime-pkg.el" "slime-autoloads.el" "../" "./")
+
+ ("/Users/nikhil/.emacs.d/elpa/" (21283 16147 0 0) "starter-kit-ruby-2.0/" "starter-kit-lisp-2.0.3/" "starter-kit-bindings-2.0.2/" "starter-kit-2.0.3/" "smex-1.1.1/" "slime-clj-0.1.5/" "slime-20100404.1/" "Save-visited-files-readme.txt" "s-1.7.0/" "rainbow-delimiters-20131015.1304/" "rainbow-delimiters-1.3.4/" "projectile-0.9.2/" "popup-0.5/" "pkg-info-20131101.408/" "paredit-22/" "magit-1.0.0/" "ido-ubiquitous-0.7/" "idle-highlight-mode-1.1.2/" "highlight-indentation-0.5.0/" "find-file-in-project-3.0/" "epl-20131101.405/" "elisp-slime-nav-0.2/" "dash-2.5.0/" "dash-2.1.0/" "clojure-test-mode-20131227.805/" "clojure-mode-20131227.1044/" "cl-lib-0.3/" "cider-20131221.1231/" "cider-0.5.0/" "auto-complete-1.4/" "archives/" "../" "./")
+
+ ("/Users/nikhil/TestProjects/" (21278 6592 0 0) "xtc-experiments/" "FitNesse-POM-Widget/" "example/" "dddsample-1.1.0/" "clojure-noob/" ".DS_Store" "../" "./")
+
+ ("/Users/nikhil/TestProjects/clojure-noob/" (21283 15885 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".lein-repl-history" ".gitignore" "../" "./")
+
+ ("/Users/nikhil/TestProjects/clojure-noob/src/clojure_noob/" (21283 14036 0 0) "core.clj" "../" "./")
+
+ ("/Users/nikhil/.emacs.d/url/" (21277 16224 0 0) "cookies" "../" "./")
+
+ ("/Users/nikhil/.emacs.d/modules/" (21277 11419 0 0) "starter-kit-ruby.el" "starter-kit-perl.el" "starter-kit-lisp.el" "starter-kit-js.el" "starter-kit-eshell.el" "starter-kit-bindings.el" "../" "./")
+
+ ("/Users/nikhil/TestProjects/clojure-noob/src/" (21277 14407 0 0) "clojure_noob/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

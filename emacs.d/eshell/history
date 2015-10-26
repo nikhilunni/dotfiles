@@ -1,0 +1,15 @@
+ls
+clear
+ls
+clear
+lskfja
+clear
+find-file DotTestListener.java 
+cd ../../../../
+cd ../../
+ls
+cd ../
+ls
+cd SampleProject/Test/
+ls
+clear
