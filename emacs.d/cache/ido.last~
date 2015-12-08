@@ -2,82 +2,57 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/" . "PA4/")
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/" . "cs164/")
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/" . "Berkeley/")
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:" . "Problem-Sets/")
- ("/" . "Applications/")
- ("/Users/nikhil/.emacs.d/elpa/" . "slime-20100404.1/")
- ("/Users/nikhil/.emacs.d/" . "elpa/")
- ("/Users/nikhil/TestProjects/clojure-noob/src/" . "clojure_noob/")
- ("/Users/nikhil/TestProjects/clojure-noob/" . "src/")
- ("/Users/nikhil/TestProjects/" . "clojure-noob/")
- ("/Users/nikhil/" . "test/")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/contrib/" . "pascal/")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/" . "test/")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/" . "zlib/")
+ ("/home/cc/cs164/fa15/class/cs164-es/" . "CS194-project/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/PA4/"
- "/ssh:cs164-es@cory.eecs.berkeley.edu:"
- "/Users/nikhil/test/"
- "/Users/nikhil/Homeroom/"
- "/Users/nikhil/.emacs.d/elpa/slime-20100404.1/"
- "/Users/nikhil/.emacs.d/url/"
- "/Users/nikhil/TestProjects/clojure-noob/src/clojure_noob/"
- "/Users/nikhil/.emacs.d/"
+ "/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/"
+ "/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/test/"
+ "/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/contrib/pascal/"
+ "/home/cc/cs164/fa15/class/cs164-es/CS194-project/pigz/"
+ "/home/cc/cs164/fa15/class/cs164-es/CS194-project/194culzss/"
+ "/home/cc/cs164/fa15/class/cs164-es/CS194-project/bzip2/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "Graph.java~"
- "Test.java"
- "app.js"
- "slime.el"
- "slime-autoloads.el"
- "cookies"
- "core.clj"
- "user.el"
+ "zlib.h"
+ "example.c"
+ "deflate.h"
+ "ChangeLog"
+ "zlibpas.pas"
+ "gzlib.c"
+ "pigz.c"
+ "zconf.h"
+ "zlib.3"
+ "deflate.c"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:/home/cc/cs164/fa15/class/cs164-es/Problem-Sets/Berkeley/cs164/PA4/" (ftp . 401616.5933333333) "./" "../" "build.xml" "tests/" "ClassTable.java" "TreeConstants.java" "cool-tree.java" "good.cl" "bad.cl" "README" "ClassTable.java~" "anngen" "parser" "cgen" "ASTConstants.java" "ASTLexer.java" "ASTParser.java" "AbstractSymbol.java" "AbstractTable.java" "BoolConst.java" "CgenSupport.java" "Flags.java" "IdSymbol.java" "IdTable.java" "IntSymbol.java" "IntTable.java" "ListNode.java" "Semant.java" "StringSymbol.java" "StringTable.java" "SymbolTable.java" "SymtabExample.java" "TokenConstants.java" "TreeNode.java" "Utilities.java" "compare-semant" "cool-tree.aps" "mycoolc" "mysemant" "ref-semant" "lexer" "ASTConstants.class" "ASTLexer.class" "ASTParser.class" "CUP$ASTParser$actions.class" "AbstractSymbol.class" "AbstractTable.class" "StringTable.class" "IdTable.class" "IntTable.class" "BoolConst.class" "CgenSupport.class" "StringSymbol.class" "IntSymbol.class" "ClassTable.class" "Classes.class" "ListNode.class" "TreeNode.class" "class_c.class" "Class_.class" "Features.class" "Flags.class" "IdSymbol.class" "Semant.class" "SymbolTable.class" "method.class" "Feature.class" "Formals.class" "Expression.class" "SymtabExample.class" "TokenConstants.class" "TreeConstants.class" "Utilities.class" "Program.class" "Formal.class" "Expressions.class" "Case.class" "Cases.class" "programc.class" "attr.class" "formalc.class" "branch.class" "assign.class" "static_dispatch.class" "dispatch.class" "cond.class" "loop.class" "typcase.class" "block.class" "let.class" "plus.class" "sub.class" "mul.class" "divide.class" "neg.class" "lt.class" "eq.class" "leq.class" "comp.class" "int_const.class" "bool_const.class" "string_const.class" "new_.class" "isvoid.class" "no_expr.class" "object.class" "cool-tree.class" "semant" "Graph.java~")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/contrib/pascal/" (22092 62864 466731 0) "zlibpas.pas" "zlibd32.mak" "readme.txt" "example.pas" "../" "./")
 
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/PA4/" (ftp . 401616.59027777775) "./" "../" "build.xml" "tests/" "ClassTable.java" "TreeConstants.java" "cool-tree.java" "good.cl" "bad.cl" "README" "ClassTable.java~" "anngen" "parser" "cgen" "ASTConstants.java" "ASTLexer.java" "ASTParser.java" "AbstractSymbol.java" "AbstractTable.java" "BoolConst.java" "CgenSupport.java" "Flags.java" "IdSymbol.java" "IdTable.java" "IntSymbol.java" "IntTable.java" "ListNode.java" "Semant.java" "StringSymbol.java" "StringTable.java" "SymbolTable.java" "SymtabExample.java" "TokenConstants.java" "TreeNode.java" "Utilities.java" "compare-semant" "cool-tree.aps" "mycoolc" "mysemant" "ref-semant" "lexer" "ASTConstants.class" "ASTLexer.class" "ASTParser.class" "CUP$ASTParser$actions.class" "AbstractSymbol.class" "AbstractTable.class" "StringTable.class" "IdTable.class" "IntTable.class" "BoolConst.class" "CgenSupport.class" "StringSymbol.class" "IntSymbol.class" "ClassTable.class" "Classes.class" "ListNode.class" "TreeNode.class" "class_c.class" "Class_.class" "Features.class" "Flags.class" "IdSymbol.class" "Semant.class" "SymbolTable.class" "method.class" "Feature.class" "Formals.class" "Expression.class" "SymtabExample.class" "TokenConstants.class" "TreeConstants.class" "Utilities.class" "Program.class" "Formal.class" "Expressions.class" "Case.class" "Cases.class" "programc.class" "attr.class" "formalc.class" "branch.class" "assign.class" "static_dispatch.class" "dispatch.class" "cond.class" "loop.class" "typcase.class" "block.class" "let.class" "plus.class" "sub.class" "mul.class" "divide.class" "neg.class" "lt.class" "eq.class" "leq.class" "comp.class" "int_const.class" "bool_const.class" "string_const.class" "new_.class" "isvoid.class" "no_expr.class" "object.class" "cool-tree.class" "semant" "Graph.java~")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/contrib/" (22092 62864 547743 0) "vstudio/" "untgz/" "testzlib/" "puff/" "pascal/" "minizip/" "masmx86/" "masmx64/" "iostream3/" "iostream2/" "iostream/" "inflate86/" "infback9/" "gcc_gvmat64/" "dotzlib/" "delphi/" "blast/" "asm686/" "amd64/" "ada/" "README.contrib" "../" "./")
 
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/cs164/" (ftp . 401616.58972222224) "./" "../" "WA1/" "PA1/" "PA2/" "cs164.tex" "WA2/" "WA3/" "PA3/" "WA4/" "PA4/")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/pigz/" (22093 950 93294 0) ".#pigz.c" "zopfli/" "yarn.h" "yarn.c" "try.h" "try.c" "pigz.spec" "pigz.pdf" "pigz.c" "pigz.1" "corpus/" "README" "Makefile" ".gitignore" "../" "./")
 
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/Berkeley/" (ftp . 401616.5891666667) "./" "../" "cs164/" "cs194/" "math113/")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/test/" (22092 62864 829740 0) "minigzip.c" "infcover.c" "example.c" "../" "./")
 
- ("/ssh:cs164-es@cory.eecs.berkeley.edu:Problem-Sets/" (ftp . 401616.5886111111) "./" "../" ".git/" ".gitignore" "Berkeley/" "UIUC/")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/zlib/" (22092 65073 96931 0) "minigzip64" "minigzip64.o" "example64" "example64.o" "minigzipsh" "libcz.so.1" "libcz.so" "libcz.so.1.2.8" "gzwrite.lo" "gzread.lo" "gzlib.lo" "gzclose.lo" "uncompr.lo" "compress.lo" "deflateCuda.lo" "cuda_hello_world.lo" "zutil.lo" "trees.lo" "inftrees.lo" "inflate.lo" "inffast.lo" "infback.lo" "deflate.lo" "crc32.lo" "adler32.lo" "examplesh" "minigzip" "minigzip.o" "example" "libcz.a" "gzwrite.o" "gzread.o" "gzlib.o" "gzclose.o" "uncompr.o" "compress.o" "deflateCuda.o" "cuda_hello_world.o" "zutil.o" "trees.o" "inftrees.o" "inflate.o" "inffast.o" "infback.o" "deflate.o" "crc32.o" "adler32.o" "example.o" "zutil.h" "zutil.c" "zlib2ansi" "zlib.pc.in" "zlib.pc.cmakein" "zlib.map" "zlib.h" "zlib.3.pdf" "zlib.3" "zconf.h.in" "zconf.h.cmakein" "zconf.h" "win32/" "watcom/" "uncompr.c" "trees.h" "trees.c" "treebuild.xml" "test/" "qnx/" "old/" "nintendods/" "msdos/" "make_vms.com" "inftrees.h" "inftrees.c" "inflate.h" "inflate.c" "inffixed.h" "inffast.h" "inffast.c" "infback.c" "gzwrite.c" "gzread.c" "gzlib.c" "gzguts.h" "gzclose.c" "examples/" "doc/" "deflateCuda.h" "deflateCuda.cu" "deflate.h" "deflate.c" "cuda_hello_world.h" "cuda_hello_world.cu" "crc32.h" "crc32.c" "contrib/" "configure.unused" "compress.c" "as400/" "amiga/" "adler32.c" "README" "Makefile.in.unused" "Makefile" "INDEX" "FAQ" "ChangeLog" "CMakeLists.txt" ".gitignore" "../" "./")
 
- ("/Users/" (21912 18326 0 0) "Shared/" "nikhil/" "macports/" "Guest/" "Deleted Users/" ".localized" "../" "./")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/194culzss/" (22092 62863 396712 0) "tree.c" "sample.c" "optlist.h" "optlist.c" "lzss.h" "lzss.c" "lzlocal.h" "list.c" "kmp.c" "hash.c" "culzss.cu" "brute.c" "bitfile.h" "bitfile.c" "README" "Makefile" "COPYING.LESSER" "COPYING" ".gitignore" "../" "./")
 
- ("/Users/nikhil/" (22061 29969 0 0) "xts-experiments/" "workspace/" "VirtualBox VMs/" "ulogme/" "UIUC/" "TumblrBrowser/" "texput.log" "test/" "resume.pdf" "resume.log" "resume.aux" "Resume/" "PropertyFinder/" "Projects/" "Problem Sets/" "Posh/" "plot.py~" "plot.py" "Pictures/" "OpenCV/" "ndbfront/" "ndb/" "mygithubpage/" "Music/" "Movies/" "mobile/" "Library/" "kernel/" "ivim/" "homeroomIonic/" "homeroom2.0/" "homeroom-mobile.playground/" "Homeroom/" "HaskellBoyAdvance/" "Haskell/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "cookie" "Brainfuck/" "BPM-Finder/" "Assignment 3.docx" "Assignment 2.docx" "Applications/" "Alfred/" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-Shankar Unni’s MacBook Pro-5.0.5" ".zcompdump-Shankar Unni’s MacBook Pro-5.0.2" ".zcompcache/" ".xtc" ".Xcode/" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".vimrc.backup" ".vimrc" ".viminfo" ".vim.backup/" ".vim/" ".Trash/" ".swp" ".subversion/" ".streamline/" ".ssh/" ".sh_history" ".Scilab/" ".saves/" ".rvm/" ".rnd" ".recentf" ".profile.macports-saved_2013-10-06_at_17:05:08" ".profile" ".plugman/" ".pip/" ".pax/" ".oracle_jre_usage/" ".oh-my-zsh/" ".octave_hist" ".nvm/" ".npm/" ".node-gyp/" ".netrc" ".mongorc.js" ".mkshrc" ".mavenrc" ".matplotlib/" ".matlab/" ".macports/" ".m2/" ".local/" ".lesshst" ".lein/" ".jssc/" ".jenkins/" ".ivy2/" ".ido.last~" ".ido.last" ".idlerc/" ".hudson/" ".hgrc" ".heroku/" ".groovy/" ".gradle/" ".gitconfig" ".ghc/" ".gem/" ".gdb_history" ".fontconfig/" ".flume/" ".eslintrc" ".emacs.d/" ".eclipse/" ".DS_Store" ".dropbox/" ".distlib/" ".dbshell" ".cups/" ".cordova/" ".config/" ".cmake/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".cabal/" ".bashrc" ".bash_profile" ".bash_history" ".azure/" ".avnrc" ".appletviewer" ".anyconnect" ".ant/" ".android/" "../" "./")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/bzip2/" (22092 62863 743715 0) "xmlproc.sh" "words3" "words2" "words1" "words0" "unzcrash.c" "spewG.c" "sample3.ref" "sample3.bz2" "sample2.ref" "sample2.bz2" "sample1.ref" "sample1.bz2" "randtable.c" "mk251.c" "manual.xml" "manual.ps" "manual.pdf" "manual.html" "makefile.msc" "libbz2.dsp" "libbz2.def" "huffman.c" "format.pl" "entities.xml" "dlltest.dsp" "dlltest.c" "decompress.c" "crctable.c" "compress.c" "bzmore.1" "bzmore" "bzlib_private.h" "bzlib.h" "bzlib.c" "bzip2recover.c" "bzip2.txt" "bzip2.c" "bzip2.1.preformatted" "bzip2.1" "bzip.css" "bzgrep.1" "bzgrep" "bzdiff.1" "bzdiff" "bz-html.xsl" "bz-fo.xsl" "bz-common.xsl" "blocksort.c" "README.XML.STUFF" "README.COMPILATION.PROBLEMS" "README" "Makefile-libbz2_so" "Makefile" "LICENSE" "CHANGES" "../" "./")
 
- ("/Users/nikhil/test/" (22061 29977 0 0) "whatever/" "visualboyadvance/" "vim-colors-solarized/" "UIUC_CS/" "transactions.json" "test2.py~" "test2.py" "test.s" "test.py~" "test.py" "Test.java~" "Test.java" "test.c~" "test.cpp~" "test.cpp" "Test.class" "test.c" "Test$MaxHeap.class" "Test$Graph.class" "Sudoku.java~" "Sudoku.java" "sudoko.cpp~" "sudoko.cpp" "stupidfile" "story.txt" "Solution.java" "Solution.class" "ShopAPI/" "SGD.py" "sgd/" "Semantic-UI/" "run" "ramusa2_noisy_predictions.txt" "Queue.java~" "Queue.java" "Practice.java~" "Practice.java" "Practice.class" "practice.c" "Practice$Tree.class" "Practice$Node.class" "Practice$LL.class" "Practice$Graph.class" "Practice$Double.class" "pickle.out" "out" "omegagb/" "NearestNeighbor.py~" "NearestNeighbor.py" "mooneye-gb/" "Makefile~" "Makefile" "jquery.min.js" "input3" "input2" "input" "Homeroom/" "gbajs/" "Fergulator/" "data~" "data" "CTCI/" "cs194/" "CompanySalary/" "chip-8-emulator/" "CC.html~" "CC.html" "amp.html~" "amp.html" "a.out" ".DS_Store" "../" "./")
+ ("/home/cc/cs164/fa15/class/cs164-es/CS194-project/" (22092 62864 87724 0) "zlib/" "pigz/" "perf_zopfli.txt" "perf_zlib.txt" "okumura-lzss/" "lzss/" "huff/" "gdb.sh" "cuda_lzss/" "corpus/" "bzip2/" "benchmark.sh" "benchmark.baseline" "ari/" "README" "Makefile" "CULZSS/" "CUDA_Compression/" "194culzss/" ".gitignore" ".git/" "../" "./")
 
- ("/Users/nikhil/.emacs.d/" (21379 65032 0 0) "user.el" "url/" "themes/" "tar.sh" "README.markdown" "places" "init.el" "elpa/" "COPYING" "cider-history" "changelog.md" "backups/" "auto-save-list/" "after-init.el" "ac-comphist.dat" ".smex-items" "../" "./")
+ ("/home/cc/cs164/fa15/class/cs164-es/" (22092 62850 779395 0) ".zshrc" "dotfiles_old/" "dotfiles/" ".tramp_history" ".gnome/" ".icons/" ".pki/" ".subversion/" "Test.java" "mycoolc" "Utilities.java" "TokenConstants.java" "StringTable.java" "StringSymbol.java" "Lexer.java" "IntTable.java" "IntSymbol.java" "IdTable.java" "IdSymbol.java" "Flags.java" "CgenSupport.java" "BoolConst.java" "AbstractTable.java" "AbstractSymbol.java" "CS194-project/" ".zcompdump" "PA2/" "README" "test.cl" "cool.lex" "tests/" "build.xml" ".mailboxlist" ".gitconfig" "Mail/" ".dbus/" ".python_history" "info.txt" "Problem-Sets/" ".macromedia/" "CS194/" ".xsession-errors.old" ".nv/" ".compiz/" ".vim/" ".adobe/" ".vim.backup/" ".gnome2_private/" ".ICEauthority" ".gnome2/" ".mozilla/" ".gconf/" ".local/" ".cache/" ".config/" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Templates/" "Downloads/" "Desktop/" "HW7" "ivim/" ".dmrc" ".vimrc.backup" "test/" ".bash_history" ".Xauthority" ".java/" "PA1/" ".viminfo" ".xsession" ".mailrc" ".mailcap" ".xsession-errors" ".joverc" ".emacs.d/" ".dtprofile" ".bashrc" ".bash_logout" ".Xdefaults" ".ssh/" ".bash_profile" "../" "./")
 
- ("/Users/nikhil/Homeroom/" (21379 64813 0 0) "views/" "routes/" "public/" "package.json" "node_modules/" "models/" "config/" "app.js" ".git/" ".DS_Store" "#app.js#" "../" "./")
-
- ("/Applications/" (21367 61644 0 0) "Xerox/" "Xcode.app/" "VMware Fusion.app/" "VirtualBox.app/" "Utilities/" "Time Machine.app/" "TextEdit.app/" "TeX/" "System Preferences.app/" "Stickies.app/" "StatPlus.app/" "Spotify.app/" "Skype.app/" "SecurID.app/" "scilab-5.4.0.app/" "Safari.app/" "Remote Desktop Connection.app/" "Reminders.app/" "QuickTime Player.app/" "Preview.app/" "Photo Booth.app/" "Octave.app/" "Notes.app/" "Network Connect.app/" "MusicBrainz Picard.app/" "Mission Control.app/" "Microsoft Silverlight/" "Microsoft Office 2011/" "Microsoft Messenger.app/" "Microsoft Communicator.app/" "Messages.app/" "MATLAB_R2012b.app/" "Maps.app/" "Mail.app/" "MacPorts/" "Logger Pro 3/" "Launchpad.app/" "JellyfiSSH.app/" "iWeb.app/" "iTunes.app/" "iTerm.app/" "iPhoto.app/" "iMovie.app/" "Image Capture.app/" "iDVD.app/" "iBooks.app/" "Graphviz.app/" "Google Chrome.app/" "Gnuplot.app/" "Garmin MapManager.app/" "Garmin MapInstall.app/" "Garmin Lifetime Map Updater.app/" "Garmin BaseCamp.app/" "GarageBand.app/" "Game Center.app/" "Font Book.app/" "Flux.app/" "Flip4Mac/" "Firefox.app/" "ffmpegX.app/" "FaceTime.app/" "Ez7z.app/" "Emacs.app/" "eclipse/" "DVD Player.app/" "Dictionary.app/" "Dashboard.app/" "CoRD.app/" "Contacts.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Automator.app/" "Audacity/" "Application Loader.app/" "App Store.app/" "Android File Transfer.app/" "Alfred 2.app/" "Adium.app/" ".localized" ".DS_Store" "../" "./")
-
- ("/Users/nikhil/.emacs.d/elpa/slime-20100404.1/" (21283 16597 0 0) "slime.elc" "slime.el" "slime-pkg.elc" "slime-pkg.el" "slime-autoloads.el" "../" "./")
-
- ("/Users/nikhil/.emacs.d/elpa/" (21283 16147 0 0) "starter-kit-ruby-2.0/" "starter-kit-lisp-2.0.3/" "starter-kit-bindings-2.0.2/" "starter-kit-2.0.3/" "smex-1.1.1/" "slime-clj-0.1.5/" "slime-20100404.1/" "Save-visited-files-readme.txt" "s-1.7.0/" "rainbow-delimiters-20131015.1304/" "rainbow-delimiters-1.3.4/" "projectile-0.9.2/" "popup-0.5/" "pkg-info-20131101.408/" "paredit-22/" "magit-1.0.0/" "ido-ubiquitous-0.7/" "idle-highlight-mode-1.1.2/" "highlight-indentation-0.5.0/" "find-file-in-project-3.0/" "epl-20131101.405/" "elisp-slime-nav-0.2/" "dash-2.5.0/" "dash-2.1.0/" "clojure-test-mode-20131227.805/" "clojure-mode-20131227.1044/" "cl-lib-0.3/" "cider-20131221.1231/" "cider-0.5.0/" "auto-complete-1.4/" "archives/" "../" "./")
-
- ("/Users/nikhil/TestProjects/" (21278 6592 0 0) "xtc-experiments/" "FitNesse-POM-Widget/" "example/" "dddsample-1.1.0/" "clojure-noob/" ".DS_Store" "../" "./")
-
- ("/Users/nikhil/TestProjects/clojure-noob/" (21283 15885 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".lein-repl-history" ".gitignore" "../" "./")
-
- ("/Users/nikhil/TestProjects/clojure-noob/src/clojure_noob/" (21283 14036 0 0) "core.clj" "../" "./")
-
- ("/Users/nikhil/.emacs.d/url/" (21277 16224 0 0) "cookies" "../" "./")
-
- ("/Users/nikhil/.emacs.d/modules/" (21277 11419 0 0) "starter-kit-ruby.el" "starter-kit-perl.el" "starter-kit-lisp.el" "starter-kit-js.el" "starter-kit-eshell.el" "starter-kit-bindings.el" "../" "./")
-
- ("/Users/nikhil/TestProjects/clojure-noob/src/" (21277 14407 0 0) "clojure_noob/" "../" "./")
+ ("/home/cc/cs164/fa15/class/cs164-es/Desktop/" (22054 53547 164936 0) "google-chrome-stable" "resume.pdf" "usr/" "opt/" "etc/" "__MACOSX/" "Assignment2/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

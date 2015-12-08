@@ -23,6 +23,9 @@
 ;Show whitespace
 (setq show-trailing-whitespace t)
 
+;Remove whitespace on save
+(add-hook 'before-save-hook 'whitespace-cleanup)
+
 ;LaTeX stuff
 (setq TeX-PDF-mode t)
 (setq latex-run-command "lualatex")
