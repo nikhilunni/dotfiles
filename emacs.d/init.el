@@ -90,18 +90,14 @@
 
 
 ;;Haskell Mode 
-(add-hook 'haskell-mode-hook 'turn-on-haskell-doc-mode)
-;;(add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
-;;(add-hook 'haskell-mode-hook 'turn-on-haskell-indent)
+(require 'company-ghci)
+(push 'company-ghci company-backends)
+(add-hook 'haskell-mode-hook 'company-mode)
+(add-hook 'haskell-interactive-mode-hook 'company-mode)
+(require 'haskell-interactive-mode)
+(require 'haskell-process)
+(add-hook 'haskell-mode-hook 'interactive-haskell-mode)
 (add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
-;;GHC stuff
-;;(add-to-list 'exec-path "~/.cabal/bin")
-;;(let ((my-cabal-path (expand-file-name "~/.cabal/bin")))
-;;  (setenv "PATH" (concat my-cabal-path ":" (getenv "PATH")))
-;;  (add-to-list 'exec-path my-cabal-path))
-;;(autoload 'ghc-init "ghc" nil t)
-;;(autoload 'ghc-debug "ghc" nil t)
-;;(add-hook 'haskell-mode-hook (lambda () (ghc-init)))
 
 
 
