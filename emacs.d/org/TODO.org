@@ -1,25 +1,19 @@
-* CS 164
-** WA2
-   DEADLINE: <2015-09-28 Mon>
-** PA3
-   DEADLINE: <2015-10-07 Wed 23:59>
-* CS 194
-** Read PageRank paper
-   DEADLINE: <2015-09-22 Tue>
-* Math 113
-** Mini Quiz tomorrow
-   DEADLINE: <2015-09-22 Tue>
-** HW 5
-   DEADLINE: <2015-09-24 Thu>
-* Hist 124a
-** Watch Birth of a Nation
-** Paper due 
-   DEADLINE: <2015-10-02 Fri>
-* Posh
-** Get crackin bub
-* Interviews
-** Follow up with SiftScience
-   DEADLINE: <2015-10-05 Mon>
-** Schedule with MesoSphere
-   DEADLINE: <2015-09-22 Tue>
-** Continue applying to companies!! 
+* CS 186
+** Vitamin 5 <2016-02-29 Mon 23:59>
+** HW3 <2016-03-04 Fri 23:59>
+** Midterm <2016-03-01 Tue>
+* EE 126
+** HW 5 <2016-03-03 Thu 09:00>
+* Math 104
+** HW6 <2016-02-29 Mon 16:00>
+* EE 126
+** HW 2 <2016-03-01 Tue 17:30>
+** Midterm <2016-03-03 Thu>
+* NutriSci
+** HW 3 <2016-03-09 Wed>
+
+
+
+
+
+

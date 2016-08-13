@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <15/10/25 17:37:20 /Users/nikhil/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <16/03/18 23:31:53 /Users/nikhil/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -41,4 +41,24 @@
   ("touch-t" t)
   ("touch" "/usr/bin/touch")
   ("ls" "/usr/xpg4/bin/ls")
-  ("busybox" nil)))
+  ("busybox" nil))
+ (["ssh" "cs186-agy" "hive23.cs.berkeley.edu" nil nil]
+  nil)
+ (["ssh" "cs186-agy" "hive18.cs.berkeley.edu" nil nil]
+  ("uname" "Linux 3.13.0-83-generic")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("busybox" nil)
+  ("~" "/home/cc/cs186/sp16/class/cs186-agy")
+  ("file-exists" "test -e")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 20190)
+  ("ls" "/bin/ls --color=never")
+  ("uid-integer" 49369)))

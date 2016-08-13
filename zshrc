@@ -8,11 +8,12 @@ CMAKE_MODULE_PATH=$HOME/.cmake
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="ys"
+ZSH_THEME="pure"
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 
 #Hadoop aliases
 alias hstart="/usr/local/Cellar/hadoop/2.6.0/sbin/start-dfs.sh;/usr/local/Cellar/hadoop/2.6.0/sbin/start-yarn.sh"
@@ -52,7 +53,7 @@ alias hstop="/usr/local/Cellar/hadoop/2.6.0/sbin/stop-yarn.sh;/usr/local/Cellar/
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git mvn history)
+plugins=(git mvn history github node npm nvm pip brew battery fasd)
 export PATH=${PATH}:/Users/nikhil/apache-maven-3.1.1/bin:/Users/nikhil/gradle/bin
 export MAVEN_OPTS='-Xmx8g' 
 source $ZSH/oh-my-zsh.sh
@@ -123,4 +124,4 @@ resetcamera () {
 [[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh  # This loads NVM
 [[ -s "$HOME/.avn/bin/avn.sh" ]] && source "$HOME/.avn/bin/avn.sh" # load avn
 
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+export PATH="$PATH:/Users/nikhil/.cabal/bin/:/usr/local/Cellar/sdl/1.2.15/include/SDL" 
